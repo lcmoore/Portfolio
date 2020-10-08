@@ -1,5 +1,5 @@
 layout: page
-title: "StarsE"
+title: "Stars"
 permalink: /Stars/
 ##Starstuff
 wordwordswords
